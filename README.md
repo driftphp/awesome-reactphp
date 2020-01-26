@@ -25,12 +25,14 @@
 
 ## Books
 
+- Learning Event-Driven PHP with ReactPHP - Sergey Zhuk - [Book](https://leanpub.com/event-driven-php)
+
 ## Blogs
 
 ## Channels and Playlists
 
-- [ReactPHP tutorials](https://www.youtube.com/playlist?list=PLKIEFFgNQYpVmUAKUjT_BRYYOdMHwGt0v), by Sergey Zhuk
-- [Create a RESTful API with ReactPHP](https://www.youtube.com/playlist?list=PLKIEFFgNQYpWeEvjglhMKUsM1xxKAwgcs), by Sergey Zhuk
+- [ReactPHP tutorials](https://www.youtube.com/playlist?list=PLKIEFFgNQYpVmUAKUjT_BRYYOdMHwGt0v) - Sergey Zhuk
+- [Create a RESTful API with ReactPHP](https://www.youtube.com/playlist?list=PLKIEFFgNQYpWeEvjglhMKUsM1xxKAwgcs) - Sergey Zhuk
 
 ## Videos
 
@@ -40,3 +42,7 @@
 - Event-driven PHP - Igor Wiedler (TakeOff 2013) - [Video](https://www.youtube.com/watch?v=MWNcItWuKpI)
 
 ## Slides
+
+## Conferences
+
+- [LoopRun Barcelona 2020](https://loop-run.io) - [Buy tickets](https://loop-run.io/#tickets)
