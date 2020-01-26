@@ -15,10 +15,6 @@
 - [PromiseTimer](https://reactphp.org/promise-timer/) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
 - [PromiseStream](https://reactphp.org/promise-stream/) - The missing link between Promise-land and Stream-land for ReactPHP.
 
-## Built with ReactPHP
-
-- []()
-
 ## Frameworks
 
 - [DriftPHP](https://driftphp.io) - PHP framework on top of ReactPHP and Symfony components
@@ -31,9 +27,15 @@
 
 ## Blogs
 
+## Channels and Playlists
+
+- [ReactPHP tutorials](https://www.youtube.com/playlist?list=PLKIEFFgNQYpVmUAKUjT_BRYYOdMHwGt0v), by Sergey Zhuk
+- [Create a RESTful API with ReactPHP](https://www.youtube.com/playlist?list=PLKIEFFgNQYpWeEvjglhMKUsM1xxKAwgcs), by Sergey Zhuk
+
 ## Videos
 
-- Pushing the limits with React PHP - Christian Lueck (PHP Unconference 2016) - [Video](https://www.youtube.com/watch?v=-5ZdGUvOqx4)
+- Getting started with ReactPHP / Pushing Real-Time Data to the Browser - Christian Lück (IPC 2019) - [Video](https://www.youtube.com/watch?v=XoDBtz5P8q8)
+- Pushing the limits with React PHP - Christian Lück (PHP Unconference 2016) - [Video](https://www.youtube.com/watch?v=-5ZdGUvOqx4)
 - Async PHP With React - Jeremy Mikola (Laracon 2014) - [Video](https://www.youtube.com/watch?v=s6xrnYae1FU)
 - Event-driven PHP - Igor Wiedler (TakeOff 2013) - [Video](https://www.youtube.com/watch?v=MWNcItWuKpI)
 
