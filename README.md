@@ -22,6 +22,10 @@
 ## Tutorials
 
 ## Articles
+- [Cees-Jan Kiewiet: ReactPHP Series](https://blog.wyrihaximus.net/categories/reactphp-series/)
+- [Sergey Zhuk: ReactPHP Series](https://sergeyzhuk.me/reactphp-series)
+- [Marc Morera: Symfony and ReactPHP Series](https://medium.com/@apisearch/symfony-and-reactphp-series-82082167f6fb)
+
 
 ## Books
 
