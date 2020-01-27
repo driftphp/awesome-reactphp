@@ -25,7 +25,9 @@
 
 ## Books
 
-- Learning Event-Driven PHP with ReactPHP - Sergey Zhuk - [Book](https://leanpub.com/event-driven-php)
+- [Learning Event-Driven PHP with ReactPHP - Sergey Zhuk](https://leanpub.com/event-driven-php)
+- [ReactPHP for Beginners - Sergey Zhuk](https://leanpub.com/reactphp-for-beginners)
+- [Building RESTful API With ReactPHP - Sergey Zhuk](https://leanpub.com/building-restful-api-with-reactphp)
 
 ## Blogs
 
