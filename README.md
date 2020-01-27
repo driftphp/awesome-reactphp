@@ -15,6 +15,11 @@
 - [PromiseTimer](https://reactphp.org/promise-timer/) - A trivial implementation of timeouts for Promises, built on top of ReactPHP.
 - [PromiseStream](https://reactphp.org/promise-stream/) - The missing link between Promise-land and Stream-land for ReactPHP.
 
+## Third-Party Components
+
+ - [List of libraries and tools built with ReactPHP](https://github.com/reactphp/reactphp/wiki/Users)
+ - [List of middleware for ReactPHP HTTP server](https://github.com/reactphp/http/wiki/Middleware)
+
 ## Frameworks
 
 - [DriftPHP](https://driftphp.io) - PHP framework on top of ReactPHP and Symfony components
