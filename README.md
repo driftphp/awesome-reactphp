@@ -23,6 +23,7 @@
 ## Frameworks
 
 - [DriftPHP](https://driftphp.io) - PHP framework on top of ReactPHP and Symfony components
+- [Loris](https://packagist.org/packages/heartbeat/loris) - A tiny ReactPHP Framework to build APIs
 
 ## Tutorials
 
