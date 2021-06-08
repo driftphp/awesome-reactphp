@@ -56,5 +56,3 @@
 ## Slides
 
 ## Conferences
-
-- [LoopRun Barcelona 2020](https://loop-run.io) - [Buy tickets](https://loop-run.io/#tickets)
