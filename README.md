@@ -24,6 +24,7 @@
 
 - [DriftPHP](https://driftphp.io) - PHP framework on top of ReactPHP and Symfony components
 - [Loris](https://packagist.org/packages/heartbeat/loris) - A tiny ReactPHP Framework to build APIs
+- [Antidot React](https://github.com/antidot-framework/reactive-antidot-starter) - PHP Micro Framework on top of PHP-FIG PSRs and ReactPHP promises
 
 ## Tutorials
 
